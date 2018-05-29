@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrugSideEffects</string>
+    <string name="enter_drug_name">Enter Drug Name</string>
+    <string name="enter">Enter</string>
+</resources>
